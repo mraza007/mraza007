@@ -10,33 +10,16 @@ Senior DevOps Engineer · Ex-AWS · 3x AWS Certified · [Blog](https://muhammadr
 
 ### 🔨 Projects
 
-- [**videodownloader**](https://github.com/mraza007/videodownloader) — YouTube downloader in Python ⭐ 212
-- [**Python-for-beginners**](https://github.com/mraza007/Python-for-beginners) — Python learning notes ⭐ 194
-- [**python-file-analyzer**](https://github.com/mraza007/python-file-analyzer) — Analyze Python files from the CLI ⭐ 50
-- [**useful-bookmarks**](https://github.com/mraza007/useful-bookmarks) — Firefox bookmarks with better search ⭐ 30
-- [**Pizza-or-Not-a-Pizza**](https://github.com/mraza007/Pizza-or-Not-a-Pizza) — ML classifier inspired by Silicon Valley ⭐ 29
-- [**learn-docker**](https://github.com/mraza007/learn-docker) — Interactive Docker tutorial ⭐ 12
-- [**hackernews-minimal**](https://github.com/mraza007/hackernews-minimal) — Minimalist Hacker News ⭐ 10
-- [**til**](https://github.com/mraza007/til) — Things I learn daily ⭐ 7
-- [**NewTab-Todo**](https://github.com/mraza007/NewTab-Todo) — Firefox extension for new tab todos ⭐ 6
-- [**Appointment-Scheduler**](https://github.com/mraza007/Appointment-Scheduler) — Book and manage appointments ⭐ 6
-- [**unix-processes**](https://github.com/mraza007/unix-processes) — Unix process viewer with CPU usage ⭐ 5
+- [**videodownloader**](https://github.com/mraza007/videodownloader) — YouTube downloader in Python
+- [**Python-for-beginners**](https://github.com/mraza007/Python-for-beginners) — Python learning notes
+- [**python-file-analyzer**](https://github.com/mraza007/python-file-analyzer) — Analyze Python files from the CLI
+- [**useful-bookmarks**](https://github.com/mraza007/useful-bookmarks) — Firefox bookmarks with better search
+- [**Pizza-or-Not-a-Pizza**](https://github.com/mraza007/Pizza-or-Not-a-Pizza) — ML classifier inspired by Silicon Valley
+- [**learn-docker**](https://github.com/mraza007/learn-docker) — Interactive Docker tutorial
+- [**hackernews-minimal**](https://github.com/mraza007/hackernews-minimal) — Minimalist Hacker News
+- [**unix-processes**](https://github.com/mraza007/unix-processes) — Unix process viewer with CPU usage
 - [**aws-omni**](https://github.com/mraza007/aws-omni) — Browser extension for multiple AWS accounts
-- [**PokeDEX**](https://github.com/mraza007/PokeDEX) — Pokédex in React
-- [**Stock-Bot**](https://github.com/mraza007/Stock-Bot) — Sentiment analysis for stocks
 - [**pastebin-service**](https://github.com/mraza007/pastebin-service) — Self-hosted pastebin
-- [**yelp-cli**](https://github.com/mraza007/yelp-cli) — Restaurant lookup from the terminal
-- [**movie-scraper**](https://github.com/mraza007/movie-scraper) — Scrapes movie databases
-- [**hn-script**](https://github.com/mraza007/hn-script) — HN top stories to your email
-- [**sms-spammer**](https://github.com/mraza007/sms-spammer) — SMS sender without third-party APIs
-- [**ghg-emissions**](https://github.com/mraza007/ghg-emissions) — Visualize greenhouse gas data
-- [**DeskDashboard**](https://github.com/mraza007/DeskDashboard) — Desk personalization dashboard
-- [**bitcoin-news-django**](https://github.com/mraza007/bitcoin-news-django) — Django + API demo
-- [**chrome-extension**](https://github.com/mraza007/chrome-extension) — Custom Chrome extension
-- [**memvid-claude-skill**](https://github.com/mraza007/memvid-claude-skill) — Claude AI skill
-- [**aws-notes**](https://github.com/mraza007/aws-notes) — AWS SA exam notes
-- [**arch-dotfiles**](https://github.com/mraza007/arch-dotfiles) — Arch Linux dotfiles
-- [**Hundred-Days-of-Python**](https://github.com/mraza007/Hundred-Days-of-Python) — 100 days of Python
 
 ---
 
@@ -59,11 +42,10 @@ Senior DevOps Engineer · Ex-AWS · 3x AWS Certified · [Blog](https://muhammadr
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-hazel-xi-45.vercel.app/api?username=mraza007&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-hazel-xi-45.vercel.app/api?username=mraza007&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mraza007&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=mraza007&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats-hazel-xi-45.vercel.app/api/top-langs/?username=mraza007&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-hazel-xi-45.vercel.app/api/top-langs/?username=mraza007&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
