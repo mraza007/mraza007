@@ -59,11 +59,11 @@ Senior DevOps Engineer · Ex-AWS · 3x AWS Certified · [Blog](https://muhammadr
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mraza007&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-hazel-xi-45.vercel.app/api?username=mraza007&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mraza007&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mraza007&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraza007&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-hazel-xi-45.vercel.app/api/top-langs/?username=mraza007&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
