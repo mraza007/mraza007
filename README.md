@@ -1,5 +1,7 @@
 # Hey, I'm Muhammad 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=mraza007&color=blueviolet&style=flat)
+
 I enjoy building software and sometimes teaching.
 
 Senior DevOps Engineer · Ex-AWS · 3x AWS Certified · [Blog](https://muhammadraza.me)
@@ -51,6 +53,18 @@ Senior DevOps Engineer · Ex-AWS · 3x AWS Certified · [Blog](https://muhammadr
 - [Grep and Log Analysis](https://muhammadraza.me/2023/grep-log-analysis/)
 
 📖 [More posts →](https://muhammadraza.me)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mraza007&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mraza007&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraza007&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
