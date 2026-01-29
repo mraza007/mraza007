@@ -2,11 +2,11 @@
 
 # Muhammad Raza 🛠️
 
-**Builder. DevOps Engineer. Open Source Contributor.**
+**I build software because I can't stop.**
 
-I build tools, break down complex systems, and write about what I learn.
+Whether it's a YouTube downloader, a container runtime from scratch, or a CLI tool nobody asked for — if it sounds fun to build, I'm building it. Software is my craft, and shipping is the habit.
 
-Ex-AWS Professional Services · 3x AWS Certified · Senior DevOps Engineer
+By day, Senior DevOps Engineer. Ex-AWS Professional Services. 3x AWS Certified. By night, still coding.
 
 [![Blog](https://img.shields.io/badge/Blog-muhammadraza.me-blue?style=flat-square)](https://muhammadraza.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--raza--07-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-raza-07/)
@@ -17,9 +17,9 @@ Ex-AWS Professional Services · 3x AWS Certified · Senior DevOps Engineer
 
 ---
 
-### 🔨 What I Build
+### 🔨 What I've Built
 
-I like understanding how things work under the hood — then building my own version from scratch.
+I don't just use tools — I build them. Most of these started as "I wonder how that works" and ended with a repo.
 
 | Project | Description |
 |---------|------------|
@@ -84,8 +84,8 @@ Certs        AWS Solutions Architect · AWS Developer · AWS Cloud Practitioner
 
 <div align="center">
 
-*I build things, break things, and write about both.*
+*Building software isn't my job — it's my thing. The job just happens to pay for it.*
 
-**Currently available for DevOps consulting** — [Book a free 30-min call](https://calendly.com/muhammad-07/30-minute-meeting)
+**Available for DevOps consulting** — [Book a free 30-min call](https://calendly.com/muhammad-07/30-minute-meeting)
 
 </div>
