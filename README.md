@@ -21,30 +21,79 @@ Ex-AWS Professional Services · 3x AWS Certified · Senior DevOps Engineer
 
 I like understanding how things work under the hood — then building my own version from scratch.
 
-| Project | Description | Stars |
-|---------|------------|-------|
-| [**videodownloader**](https://github.com/mraza007/videodownloader) | YouTube downloader built in Python | ⭐ 212 |
-| [**Python-for-beginners**](https://github.com/mraza007/Python-for-beginners) | Comprehensive Python learning notes & examples | ⭐ 194 |
-| [**python-file-analyzer**](https://github.com/mraza007/python-file-analyzer) | CLI tool to analyze Python source files | ⭐ 50 |
-| [**Pizza-or-Not-a-Pizza**](https://github.com/mraza007/Pizza-or-Not-a-Pizza) | ML classifier — inspired by Silicon Valley | ⭐ 29 |
-| [**learn-docker**](https://github.com/mraza007/learn-docker) | Interactive Docker tutorial from zero to containers | ⭐ 12 |
-| [**hackernews-minimal**](https://github.com/mraza007/hackernews-minimal) | Minimalist Hacker News front-end | ⭐ 10 |
-| [**aws-omni**](https://github.com/mraza007/aws-omni) | Browser extension for managing multiple AWS accounts | 🆕 |
+| Project | Description |
+|---------|------------|
+| [**videodownloader**](https://github.com/mraza007/videodownloader) | YouTube downloader built in Python ⭐ 212 |
+| [**Python-for-beginners**](https://github.com/mraza007/Python-for-beginners) | Comprehensive Python learning notes & examples ⭐ 194 |
+| [**python-file-analyzer**](https://github.com/mraza007/python-file-analyzer) | CLI tool to analyze Python source files ⭐ 50 |
+| [**useful-bookmarks**](https://github.com/mraza007/useful-bookmarks) | Firefox bookmarks with better search ⭐ 30 |
+| [**Pizza-or-Not-a-Pizza**](https://github.com/mraza007/Pizza-or-Not-a-Pizza) | ML image classifier — inspired by Silicon Valley ⭐ 29 |
+| [**learn-docker**](https://github.com/mraza007/learn-docker) | Interactive Docker tutorial from zero to containers ⭐ 12 |
+| [**hackernews-minimal**](https://github.com/mraza007/hackernews-minimal) | Minimalist Hacker News front-end ⭐ 10 |
+| [**til**](https://github.com/mraza007/til) | Things I learn and discover daily ⭐ 7 |
+| [**NewTab-Todo**](https://github.com/mraza007/NewTab-Todo) | Firefox extension — turns new tab into todos ⭐ 6 |
+| [**Appointment-Scheduler**](https://github.com/mraza007/Appointment-Scheduler) | Web app to book and manage appointments ⭐ 6 |
+| [**unix-processes**](https://github.com/mraza007/unix-processes) | See Unix processes with CPU usage ⭐ 5 |
+| [**aws-omni**](https://github.com/mraza007/aws-omni) | Browser extension for managing multiple AWS accounts 🆕 |
+| [**PokeDEX**](https://github.com/mraza007/PokeDEX) | Pokédex built in React |
+| [**Stock-Bot**](https://github.com/mraza007/Stock-Bot) | Sentiment analysis bot for stock trading |
+| [**pastebin-service**](https://github.com/mraza007/pastebin-service) | Self-hosted pastebin in Python |
+| [**yelp-cli**](https://github.com/mraza007/yelp-cli) | Restaurant lookup from the command line |
+| [**movie-scraper**](https://github.com/mraza007/movie-scraper) | Scrapes movie data from databases |
+| [**hn-script**](https://github.com/mraza007/hn-script) | Sends Hacker News top stories to your email |
+| [**sms-spammer**](https://github.com/mraza007/sms-spammer) | SMS sender without third-party APIs |
+| [**ghg-emissions**](https://github.com/mraza007/ghg-emissions) | Django app to visualize greenhouse gas emissions |
+| [**DeskDashboard**](https://github.com/mraza007/DeskDashboard) | Personalized desk dashboard |
+| [**bitcoin-news-django**](https://github.com/mraza007/bitcoin-news-django) | Django app demonstrating API integration |
+| [**chrome-extension**](https://github.com/mraza007/chrome-extension) | Custom Chrome extension |
+| [**memvid-claude-skill**](https://github.com/mraza007/memvid-claude-skill) | Claude AI skill for memory + video |
+| [**aws-notes**](https://github.com/mraza007/aws-notes) | AWS Solutions Architect exam notes |
+| [**arch-dotfiles**](https://github.com/mraza007/arch-dotfiles) | Arch Linux dotfiles |
+| [**Hundred-Days-of-Python**](https://github.com/mraza007/Hundred-Days-of-Python) | 100 days of Python challenge |
 
 ---
 
-### ✍️ Featured Blog Posts
+### ✍️ Blog Posts
 
-> *I write about DevOps, AWS, Python, and building things from scratch.* [**43+ posts →**](https://muhammadraza.me)
+> *I write about DevOps, AWS, Python, and building things from scratch.* [**Read all →**](https://muhammadraza.me)
 
-🔥 **Most Popular:**
-
-- 📝 [**AI Agents Are Just CI Pipelines With an LLM Plugged In**](https://muhammadraza.me/2026/ai-agents-devops-perspective/) — Breaking down the AI agent hype from a DevOps lens
-- 📝 [**AWS Cost Optimization: How I Cut a Client's Bill by 50%**](https://muhammadraza.me/2025/aws-cost-optimization-case-study/) — $5K → $2.5K/month, with scripts
-- 📝 [**The 5 ECS Decisions That Waste 6 Weeks**](https://muhammadraza.me/2025/ecs-decisions-that-waste-6-weeks/) — Hard-earned lessons from real deployments
-- 📝 [**Building a CI/CD Pipeline Runner from Scratch**](https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/) — How CI works under the hood, in Python
-- 📝 [**Understanding Docker Internals: Building a Container Runtime**](https://muhammadraza.me/2024/building-container-runtime-python/) — Namespaces, cgroups, and chroot — the hard way
-- 📝 [**Building AI Agents for DevOps Automation**](https://muhammadraza.me/2025/building-ai-agents-devops-automation/) — Practical agent patterns for infrastructure
+- 📝 [AI Agents Are Just CI Pipelines With an LLM Plugged In](https://muhammadraza.me/2026/ai-agents-devops-perspective/)
+- 📝 [AWS Cost Optimization: How I Cut a Client's Bill by 50%](https://muhammadraza.me/2025/aws-cost-optimization-case-study/)
+- 📝 [The 5 ECS Decisions That Waste 6 Weeks](https://muhammadraza.me/2025/ecs-decisions-that-waste-6-weeks/)
+- 📝 [Building AI Agents for DevOps Automation](https://muhammadraza.me/2025/building-ai-agents-devops-automation/)
+- 📝 [Building a CI/CD Pipeline Runner from Scratch](https://muhammadraza.me/2025/building-cicd-pipeline-runner-python/)
+- 📝 [Understanding Docker Internals: Building a Container Runtime](https://muhammadraza.me/2024/building-container-runtime-python/)
+- 📝 [Creating a Simple Pastebin Service in Python](https://muhammadraza.me/2024/Simple-Pastebin-In-Python/)
+- 📝 [Understanding HTTP Server by Implementing in Python](https://muhammadraza.me/2024/building-http-server/)
+- 📝 [Email Testing with Python's smtpd Module](https://muhammadraza.me/2024/Python-Commandline-Tools-Part-1/)
+- 📝 [One Liners — Python Edition](https://muhammadraza.me/2023/python-oneliners/)
+- 📝 [How cp Actually Works in Linux](https://muhammadraza.me/2023/linux-cp/)
+- 📝 [Useful Shell Functions](https://muhammadraza.me/2023/shell-functions/)
+- 📝 [Python Namespaces Explained](https://muhammadraza.me/2023/Python-Namespace/)
+- 📝 [fzf — The Command-Line Fuzzy Finder](https://muhammadraza.me/2023/fzf/)
+- 📝 [Web Scraping in Bash](https://muhammadraza.me/2023/webscraping-in-bash/)
+- 📝 [Exploring Homebrew](https://muhammadraza.me/2023/exploring-homebrew/)
+- 📝 [Grep and Log Analysis](https://muhammadraza.me/2023/grep-log-analysis/)
+- 📝 [Vim One-Liners](https://muhammadraza.me/2023/vim-onliners/)
+- 📝 [Asynchronous Programming in Python](https://muhammadraza.me/2023/Asynchronous-Programming-in-Python/)
+- 📝 [Data One-Liners](https://muhammadraza.me/2022/data-oneliners/)
+- 📝 [Command-Line One-Liners](https://muhammadraza.me/2021/Oneliners/)
+- 📝 [Linux Filesystem Explained](https://muhammadraza.me/2021/Linux-FS/)
+- 📝 [Git Commands You Should Know](https://muhammadraza.me/2020/git-command/)
+- 📝 [CloudFormation Basics](https://muhammadraza.me/2020/cloud-formation/)
+- 📝 [Database Fundamentals](https://muhammadraza.me/2020/databases/)
+- 📝 [AWS Solutions Architect Notes](https://muhammadraza.me/2020/aws-sa-notes/)
+- 📝 [Creating a Simple WebApp Using Django](https://muhammadraza.me/2019/Creating-Simple-WebApp-Using-Django/)
+- 📝 [Extracting URLs Using Regex](https://muhammadraza.me/2019/extracting-urls-using-regex/)
+- 📝 [Pandas Tricks](https://muhammadraza.me/2019/pandas-tricks/)
+- 📝 [Things I Learned About NLP](https://muhammadraza.me/2019/things-i-learned-about-nlp/)
+- 📝 [Creating an Interactive CLI App](https://muhammadraza.me/2019/Creating-Interactive-CLI-App/)
+- 📝 [Exploring Git](https://muhammadraza.me/2019/Exploring-Git/)
+- 📝 [Visualizing Stocks](https://muhammadraza.me/2019/Visualizing-Stocks/)
+- 📝 [Publishing Packages on PyPI](https://muhammadraza.me/2018/Publishing-Packages-on-PyPi/)
+- 📝 [Sending SMS Using Python](https://muhammadraza.me/2018/Sending-SMS-using-Python/)
+- 📝 [Bash Aliases](https://muhammadraza.me/2018/Bash-Aliases/)
+- 📝 [Download YouTube Videos Using Python](https://muhammadraza.me/2018/Download-YouTube-videos-using-Python/)
 
 ---
 
@@ -58,15 +107,6 @@ Containers   Docker · ECS Fargate · Kubernetes
 Backend      Django · Flask · FastAPI
 Certs        AWS Solutions Architect · AWS Developer · AWS Cloud Practitioner
 ```
-
----
-
-### 📊 Internet Footprint
-
-- **160K+** Reddit upvotes across posts
-- **450+** GitHub stars
-- **43+** technical blog posts since 2018
-- **5 years** shipping infra at AWS, JPMC, HSBC
 
 ---
 
