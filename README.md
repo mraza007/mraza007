@@ -1,6 +1,6 @@
 # Hey, I'm Muhammad 👋
 
-I like building software. That's pretty much it.
+I enjoy building software and sometimes teaching.
 
 Senior DevOps Engineer · Ex-AWS · 3x AWS Certified · [Blog](https://muhammadraza.me)
 
