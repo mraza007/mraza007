@@ -39,17 +39,6 @@ Senior DevOps Engineer · Ex-AWS · 3x AWS Certified · [Blog](https://muhammadr
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-hazel-xi-45.vercel.app/api?username=mraza007&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mraza007&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img width="49%" src="https://github-readme-stats-hazel-xi-45.vercel.app/api/top-langs/?username=mraza007&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Find me
 
 [Blog](https://muhammadraza.me) · [LinkedIn](https://www.linkedin.com/in/muhammad-raza-07/) · [Twitter](https://twitter.com/muhammad_o7) · [Email](mailto:muhammadraza0047@gmail.com) · [Consulting](https://calendly.com/muhammad-07/30-minute-meeting)
