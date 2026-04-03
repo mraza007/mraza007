@@ -21,6 +21,7 @@ Senior DevOps Engineer · Ex-AWS · 3x AWS Certified · [Blog](https://muhammadr
 - [**aws-omni**](https://github.com/mraza007/aws-omni) — Browser extension for multiple AWS accounts
 - [**pastebin-service**](https://github.com/mraza007/pastebin-service) — Self-hosted pastebin
 - [**echovault**](https://github.com/mraza007/echovault) — Local Memory System for Agents
+- [**codewiki**](https://github.com/mraza007/codewiki) — Compile codebases into living wikis maintained by AI agents
 ---
 
 ### ✍️ Blog Posts
